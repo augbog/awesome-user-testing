@@ -34,6 +34,10 @@ List of services that help provide ways for you to test against your users.
 * [Proctor: Indeed's A/B Testing Framework](http://engineering.indeedblog.com/blog/2014/06/proctor-a-b-testing-framework/)
 * [A/B Test Reporting in Looker by Kickstarter](https://kickstarter.engineering/a-b-test-reporting-in-looker-bf4869f6b52)
 * [Meet Wasabi, an Open Source A/B Testing Platform by Intuit](https://medium.com/blueprint-by-intuit/open-sourcing-wasabi-the-a-b-testing-platform-by-intuit-a8d5abc958d)
+* [A/B testing using Django by HackerEarth](http://engineering.hackerearth.com/2016/01/29/ab-testing-using-django/)
+* [The Evolution of A/B Testing Platform at LinkedIn](https://engineering.linkedin.com/ab-testing/evolution-ab-testing-platform-linkedin)
+* [eBay Experimentation Platform on Hadoop](https://www.youtube.com/watch?v=Gvf89SxXHGw) [[slides](https://www.slideshare.net/tcng3716/experimentation-platform-on-hadoop-hadoop-summit-2015)]
+* [Online Experimentation at Microsoft](http://www.exp-platform.com/Documents/ExP_DMCaseStudies.pdf)
 
 ## Courses
 
