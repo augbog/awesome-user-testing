@@ -38,6 +38,7 @@ List of services that help provide ways for you to test against your users.
 * [The Evolution of A/B Testing Platform at LinkedIn](https://engineering.linkedin.com/ab-testing/evolution-ab-testing-platform-linkedin)
 * [eBay Experimentation Platform on Hadoop](https://www.youtube.com/watch?v=Gvf89SxXHGw) [[slides](https://www.slideshare.net/tcng3716/experimentation-platform-on-hadoop-hadoop-summit-2015)]
 * [Online Experimentation at Microsoft](http://www.exp-platform.com/Documents/ExP_DMCaseStudies.pdf)
+* [A/B Testing Using React, GraphQL, and Apollo by Teachers Pay Teachers](http://engineering.teacherspayteachers.com/2017/05/31/a-b-testing-using-react-graphql-and-apollo.html)
 
 ## Courses
 
