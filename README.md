@@ -28,6 +28,7 @@ List of services that help provide ways for you to test against your users.
 * [Scaling A/B testing on Netflix.com with Node.js](https://www.youtube.com/watch?v=VN4SNJ2JT9E)
 * [Building Pinterest’s A/B testing platform](https://medium.com/@Pinterest_Engineering/building-pinterests-a-b-testing-platform-ab4934ace9f4)
 * [Experiments at Airbnb](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7)
+* [Scaling Airbnb's Experimentation Platform](https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166)
 * [Twitter experimentation: technical overview](https://blog.twitter.com/2015/twitter-experimentation-technical-overview)
 * [Building Mobile A/B Testing Infrastructure by Wealthfront](http://eng.wealthfront.com/2016/04/11/building-mobile-ab-testing-infrastructure/)
 * [Airlock - Facebook's mobile A/B testing framework](https://code.facebook.com/posts/520580318041111/airlock-facebook-s-mobile-a-b-testing-framework/)
@@ -39,6 +40,7 @@ List of services that help provide ways for you to test against your users.
 * [eBay Experimentation Platform on Hadoop](https://www.youtube.com/watch?v=Gvf89SxXHGw) [[slides](https://www.slideshare.net/tcng3716/experimentation-platform-on-hadoop-hadoop-summit-2015)]
 * [Online Experimentation at Microsoft](http://www.exp-platform.com/Documents/ExP_DMCaseStudies.pdf)
 * [A/B Testing Using React, GraphQL, and Apollo by Teachers Pay Teachers](http://engineering.teacherspayteachers.com/2017/05/31/a-b-testing-using-react-graphql-and-apollo.html)
+* [ABRA: An enterprise framework for experimentation at The Times](https://open.nytimes.com/abra-an-enterprise-framework-for-experimentation-at-the-times-57f8931449cd)
 
 ## Courses
 
